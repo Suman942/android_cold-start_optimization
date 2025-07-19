@@ -41,6 +41,6 @@ I reduced my app’s cold start time from **10–15 seconds** to ~3 seconds. Her
 
 ## 👨‍💻 Author
 **Suman Shil** – Android Developer  
-[GitHub Profile](https://github.com/Suman942) | [LinkedIn](https://www.linkedin.com/in/suman-shil-204177191/)
+[GitHub Profile](https://github.com/Suman942) | [LinkedIn](https://www.linkedin.com/in/suman-shil-204177191/) | [Medium](https://medium.com/@suman.shil.942)
 
 
